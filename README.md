@@ -1,2 +1,2 @@
 # configServerTest
-Test repository to make test with Spring Config Server
+Test repository to create tests with Spring Config Server
